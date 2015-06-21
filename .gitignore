@@ -1,0 +1,6 @@
+platforms/*
+plugins/*
+.sass-cache/*
+bower_components/*
+node_modules/*
+www/*

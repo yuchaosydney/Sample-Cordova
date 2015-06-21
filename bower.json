@@ -1,0 +1,10 @@
+{
+  "name": "HSBC",
+  "version": "0.0.0",
+  "dependencies": {
+    "jquery": "*",
+    "handlebars": "git://github.com/components/handlebars.js",
+    "ratchet": "~2.0.2"
+  },
+  "private": true
+}
